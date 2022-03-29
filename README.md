@@ -6,9 +6,8 @@ In this flutter project we authenticate our app with email and password. we can 
 And here we can some crud operation like we can crate data  also read , delete and update oour data.....
 here we use firebase authentication and cloud firestore.....
 
-## Getting Started
-
-
+Firebase Authentication
+cloud_firestore
 
 A few resources to get you started if this is your first Flutter project:
 
